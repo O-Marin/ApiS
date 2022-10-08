@@ -41,8 +41,8 @@ img {
 
 .hero,
 .footer {
-    background-color: white;
-
+    
+    
     color: #DAA520;
 
 }
@@ -52,6 +52,7 @@ img {
     flex-direction: column;
     flex: 1;
     padding: 20px 150px;
+    background-image: url(./../img/bannerApiS.jpg);
     
 }
 
@@ -63,13 +64,15 @@ img {
     gap: 35px;
 
 }
-
+.hero-navigation-links {
+    
+}
 .hero-content {
 
     display: flex;
     gap: 15px;
     justify-content: space-between;
-
+    
 }
 
 .hero-content-text {
@@ -93,7 +96,9 @@ img {
     cursor: pointer;
 }
 
-
+.logo-abeja{
+    
+}
 
 
 .footer {
