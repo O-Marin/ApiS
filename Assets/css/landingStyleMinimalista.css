@@ -21,12 +21,12 @@ ul {
 
 a:link {
     text-decoration: none;
-    color: black;
+    color:#DAA520;
 }
 
 a:visited {
     text-decoration: none;
-    color: black;
+    color:#DAA520;
 }
 
 img {
@@ -62,18 +62,19 @@ img {
     justify-content: space-between;
     margin-bottom: 20px;
     gap: 35px;
-
+    color:#DAA520;
 }
 .hero-navigation-links {
-    
+    color:#DAA520;
 }
 .hero-content {
 
     display: flex;
     gap: 15px;
-    justify-content: space-between;
+    
     
 }
+
 
 .hero-content-text {
     display: flex;
@@ -111,14 +112,14 @@ img {
 .content{
     display: flex;
     flex-direction: column;
-    background-color: #FCF4A3;
+    
     padding-top: 50px;
     gap: 25px;
     
 }
 .upper-content {
     display: flex;
-    background-color: #FCF4A3;
+    
     
     flex-direction: column;
     
@@ -134,7 +135,7 @@ img {
     padding-right: 50px 150px;
     height: 150px;
     border-radius: 10px;
-    
+    color:#DAA520;
     
 }
 
