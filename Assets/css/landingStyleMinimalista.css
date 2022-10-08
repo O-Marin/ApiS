@@ -43,7 +43,7 @@ img {
 .footer {
     background-color: white;
 
-    color: #e09e11;
+    color: #DAA520;
 
 }
 
@@ -104,7 +104,7 @@ img {
     padding: 15px;
 }
 .content{
-    background-color: #FFFF8A;
+    background-color: #FCF4A3;
 }
 .upper-content {
     display: flex;
