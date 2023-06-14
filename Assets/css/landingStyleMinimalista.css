@@ -9,8 +9,7 @@ body {
     flex: 1;
     flex-direction: column;
     font-family: 'Didact Gothic', sans-serif;
-    font-family: 'Old Standard TT', serif;
-    font-family: 'Spectral SC', serif;
+    
 
     
 
@@ -147,14 +146,21 @@ img {
 .mision{
     display: flex;
     flex-direction: column;
-    background: white;
+    background: hsla(0, 0%, 0%, 0.3);
     border: black 2px ridge;
     padding-right: 50px 150px;
     height: 150px;
     border-radius: 10px;
     color:#DAA520;
+    background-image: ;
     
 }
+
+.nuestra-mision{
+    width: 300px;
+    height: 450px;
+}
+
 
 .title {
     font-size: 80px;
@@ -166,18 +172,25 @@ img {
 
 .contenedor-link-icono{
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     
     padding: 50px 0px;
 }
 
 .link-icono{
     display: flex;
+    flex-direction: column;
+}
+
+.texto-icono{
+    align-self: center;
+    color: #DAA520;
 
 }
 
 .middle-content{
     padding-left: 150px;
+
     
 }
 
